@@ -1,1 +1,0 @@
-# python-drawing-exercise
